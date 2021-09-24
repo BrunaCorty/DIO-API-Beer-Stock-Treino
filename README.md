@@ -9,13 +9,11 @@ Meu primeiro passo foi criar uma Pasta no meu Desktop e nela armazenar os arquiv
 As dependências escolhidas foram:
 
 - Spring Boot Dev Tools
-Lombok (Biblioteca Java)
-H2 Database (Banco de Dados)
-Spring Web
-Rest Repository
-Spring Data JPA
-
-
+- Lombok (Biblioteca Java)
+- H2 Database (Banco de Dados)
+- Spring Web
+- Rest Repository
+- Spring Data JPA
 
 O link de compartilhamento da Configuração acima é: https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.5&packaging=jar&jvmVersion=17&groupId=com.digitalinnovation&artifactId=Stock&name=Stock&description=Beer%20stock%20project%20for%20Spring%20Boot&packageName=com.digitalinnovation.Stock&dependencies=devtools,lombok,web,data-rest,h2,data-jpa
 
